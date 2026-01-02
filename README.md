@@ -2,13 +2,16 @@
 
 # Government Open Data Quality Assessment via Automated Profilers
 
-This project is a **data profiling web application** built with **Python 3.11**, **Streamlit**, **Pandas**, and **YData Profiling**.  
+This project is a **data profiling web application** built with **Python 3.11**, **Streamlit**, **Pandas** and **YData Profiling**.  
 It allows users to upload a CSV file and generate an interactive profiling report.
 
 ---
+
 ## Team Structure
-# Ruben Dario Nuñez Maldonado - Technical Lead 
-# Jorge Eduardo Gomez Garnica - Documentation & Presentation Lead 
+
+# Ruben Dario Nuñez Maldonado - Technical
+
+# Jorge Eduardo Gomez Garnica - Documentation & Presentation Lead
 
 ## 1. Project Structure
 
