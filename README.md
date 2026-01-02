@@ -9,7 +9,7 @@ It allows users to upload a CSV file and generate an interactive profiling repor
 
 ## Team Structure
 
-# Ruben Dario Nuñez Maldonado - Technical
+# Ruben Dario Nuñez Maldonado - Technical Lead
 
 # Jorge Eduardo Gomez Garnica - Documentation & Presentation Lead
 
