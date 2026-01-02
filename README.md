@@ -55,7 +55,6 @@ The required Python packages are listed in `requirements.txt`.
     ## Step 4 – Upgrade pip
 
 pip install --upgrade pip
-pip install --upgrade pip
 
     ## Step 5 – Install dependencies
         pip install -r requirements.txt
